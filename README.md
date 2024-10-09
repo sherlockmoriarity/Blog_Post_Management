@@ -1,1 +1,1 @@
-#BLOG
+# Blog Post Management System
