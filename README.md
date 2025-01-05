@@ -2,7 +2,7 @@
 
 💡Overview
 
-A full-stack blog post management system built using Node.js and Express.js for the backend.This system allows users to create, view, update, and delete blog posts. The project is designed with a simple API for managing blog posts and showcases basic CRUD operations.
+A full-stack blog post management system built using Node.js and Express.js for the backend.This system allows users to create, view, update, and delete blog posts. The project is designed with  REST APIs for managing blog posts and showcases basic CRUD operations.
 
 🔍Features
 
